@@ -1,0 +1,1 @@
+[accuweather_seminar_3.postman_collection.json](https://github.com/AnnaPopchenya/Vvedenie_v_automatizatsiy_HomeWork_3/files/14736586/accuweather_seminar_3.postman_collection.json)
