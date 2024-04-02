@@ -24,6 +24,7 @@ public class GetWeatherTwelveHourTest extends AccuweatherAbstractTest{
 
         Weather weather = weatherList.get(0); // Получаем первый элемент из списка
 
+        //тест упадёт, т.к. weather.getPrecipitationType == null, PrecipitationType не приходит в ответе
         Assertions.assertEquals("Rain", weather.getPrecipitationType());
 
     }
